@@ -1,6 +1,6 @@
 ##Macedonia
 ## population
-
+44		
 
 ## capital
 
@@ -9,6 +9,6 @@
 
 
 ## interesting trivia
-
+no trivia
 
 
